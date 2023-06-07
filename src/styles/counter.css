@@ -1,0 +1,13 @@
+.counter-container { 
+
+    min-width: 200px;
+    height: 200px;
+    font-size: 80px;
+    padding: 35px;
+    margin-top: 20px;
+    background-color: white;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
