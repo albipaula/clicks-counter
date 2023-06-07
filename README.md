@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](../clicks-counter/src/images/mobile%20(7).png)
+![](/src/images/mobile%20(7).png)
 
 ### Links
 
